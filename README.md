@@ -42,6 +42,18 @@ Deployment for public access
 Charts for skill insights
 
 
+## 📸 Application Screenshots
+
+### 1️⃣ Resume + Job Description Input
+<img src="assets/screenshots/01_resume_analyzer_input.png" width="800"/>
+
+### 2️⃣ Matching Score (100% Result Achieved)
+<img src="assets/screenshots/02_matching_score_100.png" width="800"/>
+
+### 3️⃣ AI-Powered Resume Suggestions
+<img src="assets/screenshots/03_ai_suggestions.png" width="800"/>
+
+
 Author
 Sunidhi Singh
 Data Science & Generative AI
