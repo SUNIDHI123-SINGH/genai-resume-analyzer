@@ -45,7 +45,7 @@ Charts for skill insights
 ## 📸 Application Screenshots
 
 ### 1️⃣ Resume + Job Description Input
-<img src="assets/screenshots/01_resume_analyzer_input.png" width="800"/>
+[<img src="assets/screenshots/01_resume_analyzer_input.png" width="800"/>](https://github.com/SUNIDHI123-SINGH/genai-resume-analyzer/blob/main/assets/screenshots/01_resume_analyzer_input.jpg)
 
 ### 2️⃣ Matching Score (100% Result Achieved)
 <img src="assets/screenshots/02_matching_score_100.png" width="800"/>
